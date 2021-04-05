@@ -1,2 +1,0 @@
-.wrapper{width:80%;margin:15px;border:1px solid #000;display:flex;flex-direction:column;align-items:center}.wrapper h1{margin:1.8rem 0}@media (max-width:950px){.wrapper{width:100%;margin:0 auto}}.wrapper ol{display:flex;justify-content:center;flex-wrap:wrap;font-size:1.5rem;margin:0 1rem;padding:0}@media (max-width:950px){.wrapper ol{flex-direction:column}}.wrapper ol>li{margin:.2rem 1.4rem;color:red}.wrapper ol>li span{color:#000}
-/*# sourceMappingURL=main.a6936ef7.chunk.css.map */
